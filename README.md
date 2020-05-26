@@ -2,9 +2,9 @@
 
 Code example used in the tutorial on Django Authentication
 
-Watch it on YouTube: [Django User Authentication (Videos) ](https://pages.github.com/).
+Watch it on YouTube: [Django User Authentication (Videos) ](https://youtu.be/4ZNeWLN587w).
 
-Subscribe to my YouTube channel: [youtube.com/tejasjp](https://pages.github.com/)
+Subscribe to my YouTube channel: [youtube.com/TejasPachpile](https://www.youtube.com/channel/UCLHj5oZ86ejlDRVqciMwoUg)
 
 ## Run the Project 
 
